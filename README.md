@@ -16,7 +16,9 @@ Shapes:
 
 I experimented with 2 shapes from the p5.js documentation, mostly with the colour, size, and shapes with these shapes, which helped me understand the p5.js functions better. 
 
-<img width="1028" alt="Screenshot 2025-01-27 at 11 33 49 AM" src="https://github.com/user-attachments/assets/6793c50f-aa76-480e-8798-b6500d42c307" />
+<img width="252" alt="Screenshot 2025-01-20 at 10 51 06 PM" src="https://github.com/user-attachments/assets/d136e7c8-81e3-4026-a7df-0f677b78ccb1" />
 
-<img width="252" alt="Screenshot 2025-01-20 at 10 51 06 PM" src="https://github.com/user-attachments/assets/d1d6ce79-ecee-4498-9cb7-7c1b5a786808" />
+<img width="125" alt="Screenshot 2025-01-20 at 10 50 28 PM" src="https://github.com/user-attachments/assets/3ac6e243-ab0d-4ced-9f58-47b063c1344b" />
+
+
 
